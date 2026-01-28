@@ -1,2 +1,2 @@
-->![](https://komarev.com/ghpvc/?username=tteam-x&style=plastic&color=lightgrey&label=peasants)<-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tteam-x&style=plastic&color=lightgrey&label=peasants"/>
 <p align="center">very very hyperfixated on team x. fellow team x fans + other bllk bg character enjoyers pretty please interact,,</p>
